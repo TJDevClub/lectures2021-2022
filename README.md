@@ -1,10 +1,10 @@
 # 2021-2022 TJ Dev Club Lectures
 
-Repository for 2021-2022 TJ Dev Club lectures, written by TJ Dev Club officers.
+Repository for 2021-2022 TJ Dev Club lectures, created by TJ Dev Club officers.
 
-Co-Presidents: [Anna Hsu](https://github.com/annaahsu) (2022) and [Bryant Park](https://github.com/bryantpark04) (2022)
-Lecturers: [Zakariyya Scavotto](https://github.com/ZakariyyaScavotto) (2022), [Daniel Chua](https://github.com/danieljschua) (2024), and [Allen Huo](https://github.com/allenh99) (2023)
-Publicist: [Ashley Chen](https://github.com/ashleychen738) (2022)
+- Co-Presidents: [Anna Hsu](https://github.com/annaahsu) (2022) and [Bryant Park](https://github.com/bryantpark04) (2022)
+- Lecturers: [Zakariyya Scavotto](https://github.com/ZakariyyaScavotto) (2022), [Daniel Chua](https://github.com/danieljschua) (2024), and [Allen Huo](https://github.com/allenh99) (2023)
+- Publicist: [Ashley Chen](https://github.com/ashleychen738) (2022)
 
 ## Contribution
 
