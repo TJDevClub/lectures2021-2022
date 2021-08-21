@@ -56,7 +56,7 @@ Alerts work similarly in that you put what you want to display in the alert with
 
 Prompts are alerts that ask for something from the user. You can store this information in a variable, which we'll talk about later in the lecture. Otherwise, it will return a string with what the user inputs.
 
-![prompt()](./images/prompt/png)
+![prompt()](./images/prompt.png)
 
 ### Comments
 
@@ -128,7 +128,7 @@ Note: PEMDAS (order of operations) applies in JS math, as well as all other prog
 You can do math the traditional way (e.g., `x + y`), but there are also some handy operators you can use. The increment (`++`) and decrement (`--`) operators, otherwise known as examples of unary operators (operation with only one operand), are helpful for quick addition or subtraction by 1. There are also addition, subtraction, multiplication, division, and modulus assignment operators, which do the selected operation but also assign the value after the operation to its variable.
 
 ### Strings
-When you're manipulating strings, you'll often have to join two strings together. This process is called **concatenation**. There are two good ways that you can concatenate in JS: the plus operator and template strings. There are a few other ways that you can concatenate, but for beginners, we won't recommend them here. Using the plus operator, you're just directly combining two strings in probably the most intuitive way. With template strings, you use backticks (\`) instead of quotes, and in the place of your variable, you surround it with brackets (`{}`) and put a dollar sign in front of it. It's easier to see the surroundings of your variable in template strings, helping code readability.
+When you're manipulating strings, you'll often have to join two strings together. This process is called **concatenation**. There are two good ways that you can concatenate in JS: the plus operator and template strings. There are a few other ways that you can concatenate, but for beginners, we won't recommend them here. Using the plus operator, you're just directly combining two strings in probably the most intuitive way. With template strings, you use backticks (\`) instead of quotes, and in the place of your variable, you surround it with brackets (`{}`) and put a dollar sign (`$`) in front of it. It's easier to see the surroundings of your variable in template strings, helping code readability.
 
 There's a lot more  on strings, but we won't get into it for the sake of this introduction.
 
@@ -173,7 +173,7 @@ Alternatively, you can also string together different operations such as not, an
 - both conditions being evaluated must be `true` in order for `&&` to return `true`
 - only one condition being evaluated has to return `true` in order for `||` to return `true`
 
-![!, &&, and ||](./truthtable.png)
+![!, &&, and ||](./images/truthtable.png)
 
 ## Loops
 What if you have to repeat a task a lot? Let's find more efficient ways to write code.
