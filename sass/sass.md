@@ -19,7 +19,7 @@ sass --watch app/sass:public/stylesheets
 ### Variables
 While CSS does have variables, Sass has simple variables that you can also use. (You can also use them together, if you want, although it might get messy.) The obvious reason to use them would include consistent colors for branding—it’s much easier and faster to change any of the colors. However, if you ever need to update colors through JavaScript, you won’t be able to, although this is a very specific problem.
 
-```
+```scss
 $var: value;
 ```
 
