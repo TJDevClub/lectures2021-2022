@@ -1,6 +1,6 @@
 # Git
 
-Welcome to today's lecture on Git, presented by Anna Hsu and Daniel Chua, Co-President and Lecturer, respectively, of TJ Dev Club. Feel free to follow along with the presentation [https://docs.google.com/presentation/d/1j5NSsMaTRWZ-llJAPguyrm7CfhmcmuP2zTEwrw2te7Q/edit?usp=sharing](here).
+Welcome to today's lecture on Git, presented by Anna Hsu and Daniel Chua, Co-President and Lecturer, respectively, of TJ Dev Club. Feel free to follow along with the presentation [here](https://docs.google.com/presentation/d/1j5NSsMaTRWZ-llJAPguyrm7CfhmcmuP2zTEwrw2te7Q/edit?usp=sharing).
 
 ## Introduction
 
@@ -8,7 +8,7 @@ Git is a version control system that was launched in 2005 that developers around
 
 ### Version Control
 
-Why should you care about version control? It’s a way for people to keep track of their code and files. If you screw up your code or you accidentally delete it, you have an old copy you can refer to. This isn't unique to code—for example, Google Docs has “Version HIstory” where you can refer to old versions and revert, or go back, to it. In the case of Git, if the computer with your code caught on fire, you’d be able to recover your entire project and the whole history behind it, using the version control to act as a full backup of your project in a Git directory, or folder. This full backup happens every time you engage with Git.
+Why should you care about version control? It’s a way for people to keep track of their code and files. If you screw up your code or you accidentally delete it, you have an old copy you can refer to. This isn't unique to code—for example, Google Docs has “Version History” where you can refer to old versions and revert, or go back, to it. In the case of Git, if the computer with your code caught on fire, you’d be able to recover your entire project and the whole history behind it, using the version control to act as a full backup of your project in a Git directory, or folder. This full backup happens every time you engage with Git.
 
 Git is also a handy tool for collaboration, since everyone can share code that’s working on the same version. Think about how you’re able to edit a document at the same time as a friend on Google Docs!
 
